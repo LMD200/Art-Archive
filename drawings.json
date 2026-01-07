@@ -1,0 +1,21 @@
+{
+  "title": "Cyberpunk 2077 Concept",
+  "folder": "2077",
+  "sections": [
+    {
+      "name": "Reference 1",
+      "file": "2077ref1.jpeg",
+      "description": "First reference image for the concept."
+    },
+    {
+      "name": "Reference 2",
+      "file": "2077ref2.jpeg",
+      "description": "Second reference image for the concept."
+    },
+    {
+      "name": "Sketch",
+      "file": "2077sketch.png",
+      "description": "Initial sketch exploring the pose and silhouette."
+    }
+  ]
+}

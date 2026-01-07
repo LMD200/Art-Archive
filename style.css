@@ -1,0 +1,29 @@
+#drawing-tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.drawing-tab {
+  padding: 10px 16px;
+  background: #eee;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.drawing-tab.active {
+  background: #333;
+  color: white;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.art-image {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
